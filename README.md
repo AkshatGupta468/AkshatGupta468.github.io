@@ -1,5 +1,3 @@
-# akshatgupta468.github.io
-
 My Name is **Akshat Gupta**. 
 
 I am Currently pursuing **B.Tech** in Electronics and Communications , from **Indian Institute of Technology Bhubaneswar**.
